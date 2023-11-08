@@ -1,0 +1,82 @@
+.first{
+    display: flex;
+    justify-items: center;
+    background-color: black;
+}
+.header{
+    color: white;
+    font-size: xx-large;
+}
+.friday{
+    color: aliceblue;
+}
+.nov{
+    color: orange;
+    background-color: aliceblue;
+    border-radius: 2px;
+}
+.tell{
+    color: white;
+}
+.number{
+    color: orange;
+}
+.shop{
+    background-color: aqua;
+    color: white;
+    align-items: center;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+
+}
+ul li a{
+    font-family: Arial;
+    font-weight: bold;
+}
+.COLOR{
+    color: black;
+}
+.second{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    list-style: none;
+    display: flex;
+
+}
+.main{
+    background-color: white;
+}
+.btn{
+    background-color: orange;
+    height: 40px;
+    width: 100px;
+}
+.third{
+    display: flex;
+     text-decoration:none ;
+     list-style: none;
+     justify-content: center;
+     align-items: center;
+}
+.srch{
+    width: 700px;
+    height: 40px;
+}
+li a{
+    display: flex;
+    justify-items: center;
+}
